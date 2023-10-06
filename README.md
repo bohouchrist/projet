@@ -1,46 +1,33 @@
-# projet
- cours de python Gamma
+# Headings_tool_gamma
+# Git Repository  
 
-Voici une réorganisation des notions en suivant un ordre logique d'apprentissage pour une introduction à Python, avec plus de détails :
+Ce repertoire contient les cours et exercices sur l'introduction au langage python suivis lors de notre bootcamp au sein de l'Ecole Gamma en septembre - octobre 2023
 
-# Cours d'Introduction à Python
+## The Authors
 
-Bienvenue dans le repository Git contenant les cours et les exercices de la formation d'Introduction à Python. Ce repository a été créé dans le but de fournir des ressources d'apprentissage claires et concises pour les débutants en Python.
+Christ Bohou , Tarzs Gnimagnon , Galaad Neau , Gaby Mongo
 
-## Auteur
-NOM : Christ Bohou , Tarzs Gnimagnon , Galaad Neau et Gaby MONGO NKOMA
+## Cours
 
+* [Cours 1 : Introduction au codage, les types de données](cours/Introduction_Python_1.ipynb)
+* [Cours 2 : Les conditions, les listes, la liste de compréhension, les boucles for, les méthodes ](cours/Introduction_Python_2.ipynb)
 
-## Contenu
+**Explication des notions** : Dans cette section, nous avons abordé les notions suivantes :
 
-Ce repository est organisé en sections correspondant à un ordre logique d'apprentissage :
-
-1. **Introduction à Python** : Un aperçu général du langage Python, de son histoire et de ses utilisations. Vous découvrirez également comment configurer votre environnement de développement.
-
-2. **Types de données** : Cette section explique en détail les différents types de données en Python, tels que les entiers, les chaînes de caractères, les flottants, les booléens, les listes, les tuples et les dictionnaires.
-
-3. **Opérations et Expressions** : Apprenez comment effectuer des opérations mathématiques, des opérations sur les chaînes de caractères et les opérations logiques en Python. Comprenez comment les expressions sont évaluées.
-
-4. **Variables et Assignation** : Explorez la manière dont les variables sont déclarées et assignées en Python, ainsi que les règles de nommage.
-
-5. **Structures de Contrôle** : Découvrez les structures de contrôle telles que les conditions (if-elif-else) et les boucles (for et while) pour gérer le flux d'exécution de votre programme.
-
-6. **Fonctions** : Apprenez à définir des fonctions en Python, à passer des arguments et à retourner des valeurs. Comprenez la portée des variables.
-
-7. **Méthodes** : Ce dossier contient des fichiers expliquant les méthodes en Python, avec des exemples d'utilisation.
-
-8. **Sets** : Vous trouverez ici des informations sur les ensembles (sets) en Python et des exemples d'opérations courantes.
-
-9. **Listes** : Ce dossier explique les listes en Python, comment les créer, les manipuler et les utiliser dans vos programmes.
-
-10. **Bibliothèques** : Apprenez à utiliser des bibliothèques tierces en Python pour étendre les fonctionnalités de base du langage.
-
-11. **Gestion des erreurs** : Apprenez à gérer les erreurs et les exceptions en Python pour que vos programmes restent robustes.
+- La création d’une fonction booléenne  définissant la fonction is_even().  
+  Cette fonction est une fonction booléenne et ramène les valeurs vraies ou faux si paire ou impaire.
+- List pour créer une liste de différents éléments appelés “items”. Elle est créée avec []
+- les methods ce sont des fonctions qui s’appliquent aux listes qui ont pour type (list) à la différence des fonctions définies les methods modifie et change complétement la liste
+- La condition statement : elle permet de créer des conditions spécifiques pour la réalisation d’une action, on utilise ici les mots clés : if , elif , else
+- Une boucle ‘FOR’
+- Compréhension de liste (List Comprehension)
+* [Cours 3 : les boucles whiles](cours/Introduction_Python_3.ipynb)
+  
 
 ## Activités
 
-Chaque section contient également des exercices pratiques sous forme de fichiers colab . Chaque exercice est accompagné de son énoncé et de sa solution, ainsi que d'explications supplémentaires si nécessaire.
 
-N'hésitez pas à cloner ce repository pour accéder à l'ensemble des ressources et à les utiliser pour votre apprentissage de Python. Si vous avez des questions ou des suggestions.
-
-Bon apprentissage !
+* [Activité 1](activites/Introduction_Python_1_Activite.ipynb)
+* [Activité 2](activites/Introduction_Python_2_Activite.ipynb)
+* [Activité 3](activites/Introduction_Python_3_Activite.ipynb)
+* [Activité 4](activites/Homework.py)
