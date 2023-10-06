@@ -10,7 +10,7 @@ Christ , Tarzs , Galaad , Gabi
 ## Cours
 
 * [Cours 1](Ccours/Introduction_Python_1.ipynb)
-* [Cours 2](cours/Introduction_Python_2.ipynby)
+* [Cours 2](cours/Introduction_Python_2.ipynb)
 * [Cours 3](cours/Introduction_Python_3.ipynb)
   
 
