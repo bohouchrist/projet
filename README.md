@@ -9,9 +9,9 @@ Christ Bohou , Tarzs Gnimagnon , Galaad Neau , Gaby Mongo
 
 ## Cours
 
-* [Cours 1](cours/Introduction_Python_1.ipynb)
-* [Cours 2](cours/Introduction_Python_2.ipynb)
-* [Cours 3](cours/Introduction_Python_3.ipynb)
+* [Cours 1 : Introduction au codage, les types de données](cours/Introduction_Python_1.ipynb)
+* [Cours 2 : Les conditions, les listes, la liste de compréhension, les boucles for ](cours/Introduction_Python_2.ipynb)
+* [Cours 3 : les boucles whiles](cours/Introduction_Python_3.ipynb)
   
 
 ## Activités
