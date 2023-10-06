@@ -11,8 +11,8 @@ Christ , Tarzs , Galaad , Gabi
 
 * [Cours 1:](Ccours/Introduction_Python_1.ipynb)
 * [Cours 2:](cours/Introduction_Python_2.ipynby)
-* [Cours 3: ](cours/Introduction_Python_3.ipynb)
-* [Cours 4: ](Courses/further_informations_course_23_09_29.py)
+* [Cours 3:](cours/Introduction_Python_3.ipynb)
+  
 
 ## Activités
 
