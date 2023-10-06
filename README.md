@@ -1,7 +1,7 @@
 # Headings_tool_gamma
 # Git Repository  [Msc data for business] 
 
-Ce repertoire contien les cours et exercices sur l'introduction au langage python 
+Ce repertoire contient les cours et exercices sur l'introduction au langage python 
 
 ## The Authors
 
