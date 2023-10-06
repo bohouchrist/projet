@@ -9,7 +9,7 @@ Hoda, Yasmine, Axel, Amir, Karl
 
 ## Courses
 
-* [Course 1: Introduction to Python](Courses/course_1.py)
+* [Course 1: Introduction to Python](Ccours/Introduction_Python_1.ipynb)
 * [Course 2: Variables](Courses/course2.py)
 * [Course 3: Data Types](Courses/cours_python_28_09.py)
 * [Course 4: Further informations](Courses/further_informations_course_23_09_29.py)
