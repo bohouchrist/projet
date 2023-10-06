@@ -1,7 +1,7 @@
 # Headings_tool_gamma
 # Git Repository  
 
-Ce repertoire contient les cours et exercices sur l'introduction au langage python 
+Ce repertoire contient les cours et exercices sur l'introduction au langage python suivis lors de notre bootcamp au sein de l'Ecole Gamma en septembre - octobre 2023
 
 ## The Authors
 
@@ -10,7 +10,7 @@ Christ Bohou , Tarzs Gnimagnon , Galaad Neau , Gaby Mongo
 ## Cours
 
 * [Cours 1 : Introduction au codage, les types de données](cours/Introduction_Python_1.ipynb)
-* [Cours 2 : Les conditions, les listes, la liste de compréhension, les boucles for ](cours/Introduction_Python_2.ipynb)
+* [Cours 2 : Les conditions, les listes, la liste de compréhension, les boucles for, les méthodes ](cours/Introduction_Python_2.ipynb)
 
 **Explication des notions** : Dans cette section, nous avons abordé les notions suivantes :
 
