@@ -18,6 +18,6 @@ Christ , Tarzs , Galaad , Gabi
 
 
 * [Activité 1](activites/Introduction_Python_1_Activite.ipynb)
-* [Activité 2](Activity/activity_2.py)
+* [Activité 2](activites/Introduction_Python_2_Activite.ipynb)
 * [Activité 3](Activity/Activitites_3.py)
 * [Activité 4](activites/Homework.py)
