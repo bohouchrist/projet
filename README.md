@@ -5,7 +5,7 @@ This repository contains our courses and exercises for the [Python] training.
 
 ## The Authors
 
-Hoda, Yasmine, Axel, Amir, Karl
+Christ , Tarzs , Galaad , Gabi 
 
 ## Courses
 
