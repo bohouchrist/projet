@@ -9,10 +9,10 @@ Christ , Tarzs , Galaad , Gabi
 
 ## Cours
 
-* [Cours 1: Introduction to Python](Ccours/Introduction_Python_1.ipynb)
-* [Cours 2: Variables](cours/Introduction_Python_2.ipynby)
-* [Cours 3: Data Types](Courses/cours_python_28_09.py)
-* [Cours 4: Further informations](Courses/further_informations_course_23_09_29.py)
+* [Cours 1:](Ccours/Introduction_Python_1.ipynb)
+* [Cours 2:](cours/Introduction_Python_2.ipynby)
+* [Cours 3: ](cours/Introduction_Python_3.ipynb)
+* [Cours 4: ](Courses/further_informations_course_23_09_29.py)
 
 ## Activités
 
