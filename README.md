@@ -5,7 +5,7 @@ Ce repertoire contient les cours et exercices sur l'introduction au langage pyth
 
 ## The Authors
 
-Christ , Tarzs , Galaad Neau , Gabi 
+Christ Bohou , Tarzs Gnimagnon , Galaad Neau , Gaby MONGO
 
 ## Cours
 
