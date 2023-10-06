@@ -37,7 +37,7 @@ Ce repository est organisé en sections correspondant à un ordre logique d'appr
 
 11. **Gestion des erreurs** : Apprenez à gérer les erreurs et les exceptions en Python pour que vos programmes restent robustes.
 
-## Exercices
+## Activités
 
 Chaque section contient également des exercices pratiques sous forme de fichiers colab . Chaque exercice est accompagné de son énoncé et de sa solution, ainsi que d'explications supplémentaires si nécessaire.
 
