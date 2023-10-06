@@ -9,15 +9,15 @@ Christ , Tarzs , Galaad , Gabi
 
 ## Cours
 
-* [Cours 1:](Ccours/Introduction_Python_1.ipynb)
-* [Cours 2:](cours/Introduction_Python_2.ipynby)
-* [Cours 3:](cours/Introduction_Python_3.ipynb)
+* [Cours 1](Ccours/Introduction_Python_1.ipynb)
+* [Cours 2](cours/Introduction_Python_2.ipynby)
+* [Cours 3](cours/Introduction_Python_3.ipynb)
   
 
 ## Activités
 
 
-* [Activity 1](Activity/activity_1.py)
-* [Activity 2](Activity/activity_2.py)
-* [Activity 3](Activity/Activitites_3.py)
-* [Activity 4](activites/Homework.py)
+* [Activité 1](activites/Introduction_Python_1_Activite.ipynb)
+* [Activité 2](Activity/activity_2.py)
+* [Activité 3](Activity/Activitites_3.py)
+* [Activité 4](activites/Homework.py)
