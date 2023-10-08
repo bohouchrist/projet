@@ -11,6 +11,7 @@ Christ Bohou , Tarzs Gnimagnon , Galaad Neau , Gaby Mongo
 
 * [Cours 1 : Introduction au codage, les types de données](cours/Introduction_Python_1.ipynb)
 * [Cours 2 : Les conditions, les listes, la liste de compréhension, les boucles for, les méthodes ](cours/Introduction_Python_2.ipynb)
+* [Cours 3 : les boucles whiles](cours/Introduction_Python_3.ipynb)
 
 **Explication des notions** : Dans cette section, nous avons abordé les notions suivantes :
 
@@ -21,7 +22,7 @@ Christ Bohou , Tarzs Gnimagnon , Galaad Neau , Gaby Mongo
 - La condition statement : elle permet de créer des conditions spécifiques pour la réalisation d’une action, on utilise ici les mots clés : if , elif , else
 - Une boucle ‘FOR’
 - Compréhension de liste (List Comprehension)
-* [Cours 3 : les boucles whiles](cours/Introduction_Python_3.ipynb)
+
   
 
 ## Activités
